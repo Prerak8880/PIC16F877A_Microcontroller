@@ -1,5 +1,5 @@
 /*
- * File:   main.h
+ * File:   main.c
  * Author: Prerak
  *
  * Created on 21 September, 2024, 6:04 PM
